@@ -5,7 +5,7 @@ The [link](https://invis.io/HU11VKGEE9YF) to the prototype made with invision.
 ---
 ## App Map
 
-![AppMap](AppMap.drawio.png)
+![AppMap](ux-design/AppMap.drawio.png)
 
 ---
 ## WireFrame
